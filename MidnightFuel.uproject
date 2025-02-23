@@ -55,6 +55,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
